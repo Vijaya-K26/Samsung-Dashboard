@@ -80,7 +80,7 @@ Quality Score Analysis
 🏭 Manufacturing facilities have the highest production capacity.
 📷 Dashboard Preview
 
-(Add screenshots of your dashboard here.)
+ss
 
 👨‍💻 Team Members
 - Vijaya Karunasagar
