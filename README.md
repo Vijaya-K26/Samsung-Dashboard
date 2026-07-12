@@ -46,26 +46,32 @@ Profit Analysis
 Top Products
 Sales Channel Distribution
 Country-wise Revenue
-Quick Business Insights
+<img width="991" height="560" alt="image" src="https://github.com/user-attachments/assets/f0f5dccb-12ed-4275-86db-c9d995322981" />
 
 2️⃣ Product Analysis
 Product Growth
 Revenue by Category
 Sales Trend
 Product Comparison
+<img width="991" height="560" alt="image" src="https://github.com/user-attachments/assets/12515a26-83bc-4489-b07d-b019a4ad0cf9" />
 Drillthrough to Production & Procurement
+<img width="993" height="559" alt="image" src="https://github.com/user-attachments/assets/f9b125f6-c816-43a7-ac26-80c16f4368f5" />
+<img width="990" height="559" alt="image" src="https://github.com/user-attachments/assets/757638e7-1c19-4871-892f-23f80bb474ca" />
 
 3️⃣ Customer Analysis
 Customer Revenue
 Customer Distribution
 Customer Growth
 Customer Segmentation
+<img width="990" height="559" alt="image" src="https://github.com/user-attachments/assets/757638e7-1c19-4871-892f-23f80bb474ca" />
 
 4️⃣ Inventory & Shipment
 Inventory Status
 Shipment Analysis
 Carrier Performance
 Stock Distribution
+<img width="994" height="559" alt="image" src="https://github.com/user-attachments/assets/e4fcab6c-c268-4fd6-9ce9-79cbeb4ce7c7" />
+<img width="990" height="560" alt="image" src="https://github.com/user-attachments/assets/e73e6b5b-e31e-49f8-9b06-7a2e27512c22" />
 
 5️⃣ Production & Procurement
 Production by Facility
@@ -80,7 +86,12 @@ Quality Score Analysis
 🏭 Manufacturing facilities have the highest production capacity.
 📷 Dashboard Preview
 
-<img width="991" height="560" alt="image" src="https://github.com/user-attachments/assets/f0f5dccb-12ed-4275-86db-c9d995322981" />
+
+
+
+
+
+
 
 
 👨‍💻 Team Members
