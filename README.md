@@ -17,9 +17,31 @@ This project demonstrates an end-to-end Business Intelligence workflow, includin
 * DAX (Data Analysis Expressions)
 * Microsoft Excel / CSV
 * Star Schema Data Modeling
+  
+---
+## Business Use Case
+
+A Samsung regional sales manager can use this dashboard to:
+
+* Compare revenue performance across products and countries
+* Identify high-performing sales channels driving maximum revenue
+* Monitor inventory levels to prevent stock shortages during peak demand
+* Use drillthrough to analyze product-level details, including production and procurement insights
+* Evaluate supplier efficiency and production performance
+* Make faster, data-driven strategic decisions using interactive visualizations
 
 ---
+## Key Insights
 
+* Online sales channel contributed the highest revenue.
+* USA generated the highest customer revenue.
+* Galaxy Z Fold5 emerged as the top-performing premium product.
+* Manufacturing facilities recorded the highest production capacity.
+* Amazon accounted for the highest sales contribution.
+* Delivered orders represented the largest share of total shipments.
+* Supplier performance and production quality can be monitored through product-level drillthrough.
+
+---
 ## Dashboard Pages
 
 ### Executive Overview
@@ -72,35 +94,6 @@ This project demonstrates an end-to-end Business Intelligence workflow, includin
 * Stock distribution insights
 
 <img width="990" height="560" alt="image" src="https://github.com/user-attachments/assets/e73e6b5b-e31e-49f8-9b06-7a2e27512c22" />
-
----
-
-## Business Use Case
-
-A Samsung regional sales manager can use this dashboard to:
-
-* Compare revenue performance across products and countries
-* Identify high-performing sales channels driving maximum revenue
-* Monitor inventory levels to prevent stock shortages during peak demand
-* Use drillthrough to analyze product-level details, including production and procurement insights
-* Evaluate supplier efficiency and production performance
-* Make faster, data-driven strategic decisions using interactive visualizations
-
----
-## Business Use Case
-
-The Samsung Sales Dashboard centralizes sales, customer, inventory, shipment, production, and procurement data into a single interactive Power BI dashboard. It enables stakeholders to monitor KPIs, identify business trends, evaluate operational performance, and make data-driven decisions through interactive visualizations and drillthrough analysis.
-
----
-## Key Insights
-
-* Online sales channel contributed the highest revenue.
-* USA generated the highest customer revenue.
-* Galaxy Z Fold5 emerged as the top-performing premium product.
-* Manufacturing facilities recorded the highest production capacity.
-* Amazon accounted for the highest sales contribution.
-* Delivered orders represented the largest share of total shipments.
-* Supplier performance and production quality can be monitored through product-level drillthrough.
 
 ---
 
