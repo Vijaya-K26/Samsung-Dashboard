@@ -38,14 +38,23 @@ This project demonstrates an end-to-end Business Intelligence workflow, includin
 * Product growth trends
 * Revenue by category
 * Sales trend comparison
-* Drillthrough to production and procurement
 
 <img width="991" height="560" alt="image" src="https://github.com/user-attachments/assets/12515a26-83bc-4489-b07d-b019a4ad0cf9" />
+
+* Drillthrough to production and procurement
 
 <img width="993" height="559" alt="image" src="https://github.com/user-attachments/assets/f9b125f6-c816-43a7-ac26-80c16f4368f5" />
 
 ---
+### Production and Procurement
 
+* Production by facility
+* Supplier performance analysis
+* Procurement trends and quality metrics
+
+<img width="990" height="559" alt="image" src="https://github.com/user-attachments/assets/757638e7-1c19-4871-892f-23f80bb474ca" />
+
+---
 ### Customer Analysis
 
 * Customer revenue contribution
@@ -66,16 +75,6 @@ This project demonstrates an end-to-end Business Intelligence workflow, includin
 
 ---
 
-### Production and Procurement
-
-* Production by facility
-* Supplier performance analysis
-* Procurement trends and quality metrics
-
-<img width="990" height="559" alt="image" src="https://github.com/user-attachments/assets/757638e7-1c19-4871-892f-23f80bb474ca" />
-
----
-
 ## Business Use Case
 
 A Samsung regional sales manager can use this dashboard to:
@@ -88,12 +87,20 @@ A Samsung regional sales manager can use this dashboard to:
 * Make faster, data-driven strategic decisions using interactive visualizations
 
 ---
+## Business Use Case
 
+The Samsung Sales Dashboard centralizes sales, customer, inventory, shipment, production, and procurement data into a single interactive Power BI dashboard. It enables stakeholders to monitor KPIs, identify business trends, evaluate operational performance, and make data-driven decisions through interactive visualizations and drillthrough analysis.
+
+---
 ## Key Insights
 
-* Online sales channels contribute the majority of revenue
-* A small set of products drives a significant share of total sales
-* Supplier and production performance directly impact inventory flow
+* Online sales channel contributed the highest revenue.
+* USA generated the highest customer revenue.
+* Galaxy Z Fold5 emerged as the top-performing premium product.
+* Manufacturing facilities recorded the highest production capacity.
+* Amazon accounted for the highest sales contribution.
+* Delivered orders represented the largest share of total shipments.
+* Supplier performance and production quality can be monitored through product-level drillthrough.
 
 ---
 
